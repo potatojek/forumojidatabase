@@ -1,0 +1,9 @@
+[
+    {"catagory":"faces", "links":[
+        {"name":"expressionless face", "link":"/Vercte/expressionlessface.png"},
+        {"name":"face with head bandage", "link":"/Vercte/facewithheadbandage.png"},
+        {"name":"face with medical mask", "link":"/Vercte/facewithmedicalmask.png"},
+        {"name":"flushed face", "link":"/Vercte/flushed.png"},
+        {"name":"face without mouth", "link":"/Vercte/nomouth.png"}
+    ]}
+]
